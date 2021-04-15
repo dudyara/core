@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\bin\Debug\netcoreapp2.2\CoreAPI_app.deps.json
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\bin\Debug\netcoreapp2.2\CoreAPI_app.runtimeconfig.json
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\bin\Debug\netcoreapp2.2\CoreAPI_app.runtimeconfig.dev.json
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\bin\Debug\netcoreapp2.2\CoreAPI_app.dll
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\bin\Debug\netcoreapp2.2\CoreAPI_app.pdb
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.RazorAssemblyInfo.cache
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.RazorAssemblyInfo.cs
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.AssemblyInfo.cs
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.RazorTargetAssemblyInfo.cache
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.dll
+C:\Users\пк\source\repos\CoreAPI_app\CoreAPI_app\obj\Debug\netcoreapp2.2\CoreAPI_app.pdb
